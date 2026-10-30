@@ -1,6 +1,6 @@
 --[[
     Jpax Hub — Drill to Earth's Core (place 74507545904779)
-    v1.9 — TERRA farm/loot/esp/combat/drill on KLZE Obsidian UI.
+    v2.1.0— TERRA farm/loot/esp/combat/drill on KLZE Obsidian UI.
     Shop watch and the old depth overlay are not included.
 ]]
 
